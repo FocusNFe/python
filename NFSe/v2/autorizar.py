@@ -6,7 +6,7 @@ import requests
 Para ambiente de produção use a variável abaixo:
 url = "https://api.focusnfe.com.br"
 '''
-url = "http://homologacao.acrasnfe.acras.com.br/v2/nfse.json"
+url = "http://homologacao.acrasnfe.acras.com.br/v2/nfse"
 
 # Substituir pela sua identificação interna da nota
 ref = {"ref":"12345"}
