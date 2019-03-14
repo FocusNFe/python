@@ -5,7 +5,7 @@ import requests
 Para ambiente de produção use a variável abaixo:
 url = "https://api.focusnfe.com.br"
 '''
-url = "http://homologacao.acrasnfe.acras.com.br/v2/hooks/"
+url = "https://homologacao.focusnfe.com.br/v2/hooks/"
 
 token="token_enviado_pelo_suporte"
 
