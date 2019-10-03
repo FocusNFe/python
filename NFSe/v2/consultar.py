@@ -12,6 +12,8 @@ ref = "12345"
 
 token="token_enviado_pelo_suporte"
 
+completa = "completa=0"
+
 r = requests.get(url+ref+".json", params=completa, auth=(token,""))
 
 # Mostra na tela o codigo HTTP da requisicao e a mensagem de retorno da API
